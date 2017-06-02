@@ -1,0 +1,36 @@
+.main-header{
+	background-image: url("../assets/img/hire-manage-freelancer.jpeg");
+	background-repeat: no-repeat;
+	height: 500px;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity : 0.7;
+}
+
+.text-overlay{
+	width:700px;
+	margin: auto;
+	background-color: #335eab;
+	opacity: 0.8;
+	color: white;
+	/*padding-top: 100px;*/
+	position: absolute;
+	top: 200px;
+	left: 25%;
+	border-radius: 5px;
+	box-shadow: 5px 5px 10px #888888;
+
+}
+
+.text-overlay-heading{
+	font-size: 50px;
+	padding: 30px;
+	opacity: 1;
+}
+
+.text-overlay-body{
+	font-size: 20px;
+	padding: 30px;
+	opacity: 1;
+}
