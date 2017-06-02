@@ -62,7 +62,7 @@ class Footer extends Component {
 	       		</div>
       		</div>
       		<div className="lower-footer">
-       			<p>© 2017, Gigster Inc.   Terms & Privacy</p>
+       			<p>© 2017, Proactive Inc.   Terms & Privacy</p>
        		</div>
       </div>
     );
