@@ -11,8 +11,7 @@
 .text-overlay{
 	width:700px;
 	margin: auto;
-	background-color: #335eab;
-	opacity: 0.8;
+	background-color: rgba(51,94,171,0.7);
 	color: white;
 	/*padding-top: 100px;*/
 	position: absolute;
@@ -25,8 +24,11 @@
 
 .text-overlay-heading{
 	font-size: 50px;
-	padding: 30px;
-	opacity: 1;
+	padding: 30px 30px 20px 30px;
+}
+
+.text-overlay-heading > h1{
+	font-size: 50px;
 }
 
 .text-overlay-body{
